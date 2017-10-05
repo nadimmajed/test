@@ -4,7 +4,14 @@ LODA-Lecture Notes on Data Analysis
 Lecture notes (in form of slides) and excercises in Python using ipython-notebook for teaching data and media analysis.
 It includes introductions to Python, Numpy, Scipy, Scikit-Learn, SimpleCV.
 It covers the topics Supervised/Unsupervised Learning, Signal Analysis, Image Analysis, Text and Web-Media Analysis.
-[Sites Using React](https://github.com/facebook/react/wiki/Sites-Using-React)
+
+
+
+
+[Sites Using React](../../wiki/External-data-sources)
+
+
+
 Presentation
 ============
 The lecture notes are optimized for presentation. In order to use them, invoke
